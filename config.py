@@ -11,7 +11,7 @@ API_ID = os.environ.get("API_ID", "29104286")
 
 API_HASH = os.environ.get("API_HASH", "fa6b2489e03daa111556af0765a3f6ef")
 
-BOT_TOKEN = os.environ.get("BOT_TOKEN", "7108067911:AAF-nRwP9shoDhHWA4otIhbblf7VUIK9_P4") 
+BOT_TOKEN = os.environ.get("BOT_TOKEN", "7001611668:AAHErIbistyeBBXwemOWySjfhRjYLIic3TM") 
 
 FORCE_SUB = os.environ.get("FORCE_SUB", "koreandramavaultprivate") 
 
@@ -19,7 +19,7 @@ FORCE_SUB = os.environ.get("FORCE_SUB", "koreandramavaultprivate")
              # Subscribe YouTube Channel For Amazing Bot @Tech_VJ
              # Ask Doubt on telegram @KingVJ01
 
-DB_NAME = os.environ.get("DB_NAME", "renamevjbot")     
+DB_NAME = os.environ.get("DB_NAME", "Cluster0")     
 
 DB_URL = os.environ.get("DB_URL", "mongodb+srv://rahulspc9389:rahul7906@cluster0.8urrm.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0")
  
